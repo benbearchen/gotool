@@ -10,4 +10,4 @@ REM set GOARCH=386
 set GOROOT=%GOROOT386%
 
 REM 下面，请使用 %GOROOT%\bin\go 编译你的 go 程序
-
+REM ===================END=======================
